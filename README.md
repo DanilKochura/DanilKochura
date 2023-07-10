@@ -15,14 +15,6 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilkochura" style="height: 200px; margin-right: 20px">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=danilkochura&show_icons=true&locale=ru" style="height: 200px">
-    </td>
-  </tr>
 </table>
 <table>
   <tr>
