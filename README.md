@@ -14,25 +14,13 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/48350702/136327368-98272ce0-a1c5-4b61-89fc-32f2350a84ed.png" alt="kotlin" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
-<table>
-   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilkochura" style="height: 200px; margin-right: 20px">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=danilkochura&show_icons=true&locale=ru" style="height: 200px">
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilkochura&" style="height: 200px; margin-right: 20px">
-    </td>
-    <td>
-      <img src="https://readme-jokes.vercel.app/api" style="height: 200px">
-    </td>
-  </tr>
-</table>
+<div align="center">
+ 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilkochura" style="height: 200px; margin-right: 20px">
+   <img src="https://github-readme-stats.vercel.app/api?username=danilkochura&show_icons=true&locale=ru" style="height: 200px">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilkochura&" style="height: 200px; margin-right: 20px">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanilKochura&theme=swift" style="height: 200px; margin-right: 20px">
+   </div>
+
 
 
