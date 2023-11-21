@@ -19,7 +19,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilkochura" style="height: 200px; margin-right: 20px">
    <img src="https://github-readme-stats.vercel.app/api?username=danilkochura&show_icons=true&locale=ru" style="height: 200px">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilkochura&" style="height: 200px; margin-right: 20px">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanilKochura&theme=swift" style="height: 200px; margin-right: 20px">
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanilKochura&theme=github" style="height: 200px; margin-right: 20px">
    </div>
 
 
