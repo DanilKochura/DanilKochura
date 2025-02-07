@@ -1,4 +1,25 @@
-<h3 align="left">Languages and Tools:</h3>
+<div id="header" align="center">
+    <h2>Hi there, I'm  Danil </h2>
+    <h4>Fullstack-developer from Moscow</h4>
+</div>
+
+<div id="socials" align="center">
+  <a href="https://t.me/kochuradanil">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:kocuradanil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+### About me
+- 🐘 4 years of web-development on PHP
+- 🌱 Now i'm trying myself in mobile development
+- 📝 I'm a fourth year CS-student of [Bauman's Moscow State Technical University](https://bmstu.ru/)
+- 🏆 [Took first place](https://bmstu.ru/news/baumancy-prizyory-khakatona-lidery-cifrovoi-transformacii) at [LCT Hackathon 2024](https://i.moscow/lct)
+- 🎬 Obsessed with cinema and developing projects in this way (see [imdibil](https://github.com/DanilKochura/imdibil-lara-vue)).
+---
+<h3 align="left">My languages and Tools:</h3>
 
 [![fgfg](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
@@ -15,11 +36,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
 <div align="center">
- 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilkochura" style="height: 200px; margin-right: 20px">
-   <img src="https://github-readme-stats.vercel.app/api?username=danilkochura&show_icons=true&locale=ru" style="height: 200px">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilkochura&" style="height: 200px; margin-right: 20px">
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanilKochura&theme=github" style="height: 200px; margin-right: 20px">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilkochura&hide=javascript,css,scss,html&theme=dark">
    </div>
 
 
