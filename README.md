@@ -16,7 +16,7 @@
 - 🐘 4 years of web-development in PHP
 - 🌱 Now i'm trying myself in mobile development
 - 📝 I'm a fourth year CS-student of [Bauman's Moscow State Technical University](https://bmstu.ru/)
-- 🏆 [Took first place](https://bmstu.ru/news/baumancy-prizyory-khakatona-lidery-cifrovoi-transformacii) at [LCT Hackathon 2024](https://i.moscow/lct)
+- 🏆 [Took first place](https://bmstu.ru/news/baumancy-prizyory-khakatona-lidery-cifrovoi-transformacii) at [LCT Hackathon 2024](https://i.moscow/lct) (and 2nd at LCT 2025)
 - 🎬 Obsessed with cinema and developing projects in this way (see [imdibil](https://github.com/DanilKochura/imdibil-lara-vue)).
 ---
 <h3 align="left">My languages and Tools:</h3>
